@@ -1,0 +1,19 @@
+site_name: "Workshop: Benchmarking Causal Inference Algorithms"
+site_url: "https://Echo-Node.github.io/ci-benchmarks"
+
+theme:
+  name: material
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+
+nav:
+  - Home: index.md
+  - Problems:
+      - Basel: problems/basel.md
