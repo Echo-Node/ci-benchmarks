@@ -44,7 +44,7 @@ A Polymath-style benchmark site built with MkDocs and deployed on GitHub Pages.
 	```bash
 	mkdocs gh-deploy
 	```
-If you get a non-fast-forward error, force an overwrite with:
+	If you get a non-fast-forward error, force an overwrite with:
 
 	```bash
 	mkdocs gh-deploy --force
