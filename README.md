@@ -1,6 +1,6 @@
 # ci-benchmarks
 
-A Polymath-style benchmark site built with MkDocs and deployed on GitHub Pages.
+A Polymath-style benchmark site built with MkDocs and deployable on GitHub Pages.
 
 ## Prerequisites
 
